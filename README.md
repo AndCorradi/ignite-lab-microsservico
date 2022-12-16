@@ -6,14 +6,14 @@ Microsserviço desenvolvido em [NestJS]([NestJS - A progressive Node.js framewor
 
 ## Como rodar
 
-- Instalar as dependencias
+- Instale as dependências
 ```bash
 npm install
 # or
 yarn
 ```
 
-- Roda como desenvolvedor
+- Rodar como desenvolvedor
 ```bash
 npm run start:dev
 # or
